@@ -1,5 +1,5 @@
-// C++ Program to check Prime Number
 
+// C++ Program to check Prime Number
 #include <iostream>
 using namespace std;
 int main()
@@ -18,7 +18,7 @@ int main()
         }
         else
         {
-            cout << "Prime" << endl;
+            cout << "Prime"<< endl;
             break;
         }
     }
