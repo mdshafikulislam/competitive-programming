@@ -1,0 +1,341 @@
+Link:https://www.codezclub.com/cpp-solved-programs-problems-solutions/
+
+##C++ Basic Solved Programs##
+
+C++ Program to Print Number (Entered by the User)
+C++ Program to Addition of Two Numbers
+C++ Program to Find Quotient and Remainder
+C++ Program to Swap Two Numbers Without Using third variable
+C++ Program to Find Size of int, float, double and char
+C++ Program to Multiply two Numbers
+C++ Program to Find ASCII Value of a Character
+C++ program to generate random numbers
+C++ Program to calculate sum and average of three numbers
+C++ Program to convert inches into yard, feet and inches
+C++ Program to raise any number X to power N
+C++ Program to Add Two Numbers
+C++ Program to Convert Days Into Years, Weeks and Days
+C++ Program to find Square Root of a number
+C++ Program to find Compound Interest
+C++ program to find cube of number using macros
+C++ Program to Check Number is Odd or Even
+C++ Program to Check Character is Uppercase, Lowercase, Digit or Special Character
+C++ Program to Check whether year is Leap year or not
+C++ Program to Find All Roots of a Quadratic Equation
+C++ Program to Check Whether a character is Vowel or Consonant
+C++ Program to Check given number is Even or Odd
+C++ Program to Check given number is Prime number or not
+C++ Program to find Factorial of a Number
+C++ program to Print Table of any Number
+C++ Program to Reverse a Number
+C++ Program to Find number of Digits in any number
+C++ Program to find Fibonacci Series
+C++ Program to Check given number is Armstrong or Not
+C++ program to Find Largest Number among three numbers
+C++ program to Check Number is Palindrome or not
+C++ Program to Find HCF of two numbers
+C++ program to find LCM of two numbers
+C++ program to find Square Root of a Number
+C++ Program to find Cube Root of Number
+C++ program to find sum of digits of a number
+C++ Program to Find Power of Number
+C++ Program to find average of numbers
+C++ Program for Pascal Triangle
+
+## C++ Number Solved Programs ##
+
+C++ Program to calculate sum and average of three numbers
+C++ Program to raise any number X to power N
+C++ Program to Add Two Numbers
+C++ Program to find Square Root of a number
+C++ Program to Check given number is Even or Odd
+C++ Program to Check given number is Prime number or not
+C++ Program to find Factorial of a Number
+C++ program to Print Table of any Number
+C++ Program to Reverse a Number
+C++ Program to Find number of Digits in any number
+C++ Program to find Fibonacci Series
+C++ Program to Check given number is Armstrong or Not
+C++ program to Find Largest Number among three numbers
+C++ program to Check Number is Palindrome or not
+C++ Program to Find HCF of two numbers
+C++ program to find LCM of two numbers
+C++ program to find Square Root of a Number
+C++ Program to find Cube Root of Number
+C++ program to find sum of digits of a number
+C++ Program to Find Power of Number
+C++ Program to Check Number is Unique Number or Not
+C++ Program to find average of numbers
+C++ Program to Find Sum of First n Natural Numbers
+C++ Program to Find Divisors of a Number
+C++ Program to Find Sum of Square of n Natural Numbers
+C++ Program to Convert Binary to Decimal
+C++ Program to Convert Decimal to Binary
+C++ Program to Display Prime Numbers Between Two Intervals
+C++ Program to Convert Binary Number to Octal
+C++ Program to Convert Octal to Binary
+C++ Program to Convert Octal Number to Decimal
+C++ Program to Convert Decimal Number to Octal
+C++ Program to Make a Simple Calculator
+C++ program to find area of circle
+C++ Program to find Area and Perimeter of Rectangle
+C++ Program to find Perfect Number
+C++ Program to Calculate Grade of Student
+C++ Program to Calculate Arithmetic Mean
+C++ Program to Calculate Average Percentage Marks
+
+## C++ String Solved Programs ##
+
+C++ Program to Print entered String
+C++ Program to Find Frequency of Characters in String
+C++ program to Find Length of String
+C++ Program to Compare Two Strings
+C++ Program to Reverse String
+C++ program to concatenate two string
+C++ Program to Copy String into Another String
+C++ Program to Find Number of Vowels, Consonants, Digits, Spaces in String
+C++ Program to Remove Characters in String Except Alphabets
+C++ Program to Sort Elements in Lexicographical Order
+C++ Program to Swap Two Strings
+C++ Program to Convert Lowercase to Uppercase
+C++ Program to Convert Uppercase Character to Lowercase
+C++ Program to Convert Uppercase String to Lowercase
+C++ Program to Remove Spaces from String
+C++ Program to Count Words in String
+C++ Program to Delete Words from String
+C++ Program to Delete Vowels from String
+C++ Program to Find Substring in String
+C++ Program for Permutation of String
+C++ Program to reverse all strings stored in an array
+C++ Program to Convert first alphabet from lowercase to uppercase
+C++ Program to check whether String is Palindrome or not
+C++ Program to convert first letter of each word to uppercase and other to lowercase
+
+## C++ Arrays Solved Programs ##
+
+C++ Program to Remove Characters in String Except Alphabets
+C++ Program to find Maximum or Largest number in array
+C++ Program to enter 5 numbers & display first and last only
+C++ Program To reverse an array elements entered by user
+C++ Program to Sort an Array Elements in Ascending Order
+C++ Program to Sort an Array Elements in Descending Order
+C++ Program for Addition of two matrix
+C++ Program to Find Duplicate Elements in Array
+C++ Program to Find Sum of Elements of an Array
+C++ Program to Reverse elements of an Array
+C++ Program to Find Even & Odd Elements in Array
+C++ Program to Delete element from Array
+C++ program to Insert element at specific position in array
+C++ Program to Pass Array in Function
+C++ Program for Three Dimensional (3D) Array
+C++ Program for Two Dimensional Array
+C++ Program to Delete Element from Array
+C++ Program to Find Smallest Element in Array
+C++ Program to Find Largest Element in Array
+C++Program for One Dimensional (1-D) Array
+C++ Program to Calculate Average of elements in an Arrays
+C++ Program to Access Elements of an Array Using Pointer
+C++ Program to Multiply Two Matrix Using Multi-dimensional Arrays
+C++ Program to Find Transpose of a Matrix
+C++ Program to Subtract Two Matrices
+C++ Program for Quick Sort using arrays
+C++ Program for Shell Sort using Arrays
+C++ Program for Union of Two Sorted Arrays
+C++ Program for Union of Two Unsorted Arrays
+C++ Program for Insertion Sort using Array
+C++ Program for Selection Sort using Arrays
+C++ Program to Find Largest and Smallest Element of a Matrix
+C++ Program for Binary Search in Arrays
+C++ Program for Linear Search in Arrays
+C++ Program to Find Sum of Diagonals of Matrix
+C++ Program to Print Lowerhalf and Upperhalf of Triangle Matrix
+C++ Program to Find Sum Above and Below of Main Diagonal Matrix
+C++ Menu Driven Program for Queue Operations using Arrays
+C++ Menu Driven Program for Stack Operations Using Arrays
+C++ Program to implement Merge Sort using Divide and Conquer Algorithm
+
+## C++ Functions Solved Programs ##
+C++ Program for Linear search using recursion
+C++ Program to Find Factorial of Number Using Recursion
+C++ program to Find Sum of Natural Numbers using Recursion
+C++ program to Check Number can Express as Sum of Prime Numbers
+C++ Program to Check Prime Number
+C++ Program to Display Prime Numbers Between Two Intervals
+C++ Program to Find GCD Using Recursion
+C++ Program to Find Power Using Recursion
+C++ program to Reverse String Using Recursion
+C++ Program to Convert Binary Number to Octal
+C++Program to Convert Octal to Binary
+C++ Program to Convert Octal Number to Decimal
+C++ Program to Convert Decimal Number to Octal
+C++ Program to Convert Binary Number to Decimal
+C++ Program to convert decimal number to binary
+C++ Program for Fibonacci Series Using Recursion
+C++ program to swap values using pass by reference
+C++ Program to print series using function: x + x^3/3! + x^5/5! +…….+ x^n/n!
+C++ Program for Addition,subtraction and multiplication using function
+C++ Program to find cube of number using function
+C++ program to find greatest between two numbers using inline function
+C++ program to find factorial by defining functions outside the class
+C++ program to find greatest b/w 3 nos. by defining the functions inside class
+C++ program to swap two characters and integers by call by value
+C++ program to find reverse of number by defining functions outside class
+C++ program to swap 2 characaters and integers by call by address
+C++ program to find sum and product of 5 numbers using inline function
+C++ program to add two time by Call by reference
+C++ program to add two time by Call by address
+C++ program to find how many times function called by objects
+C++ program to find square of float and integer using inline function
+C++ program to add two complex number passing objects as arguments
+C++ program to find factorial of number using functions
+C++ program to check number is palindrome or not using Function
+C++ Program to Swap two numbers using call by value
+C++ Program to Swap two numbers by call by address
+C++ Program to Swap two numbers by call by reference
+
+## C++ Classes and Objects Solved Programs ##
+
+C++ program to find factorial by defining functions outside the class
+C++ program to find greatest b/w 3 nos. by defining the functions inside class
+C++ program to find reverse of number by defining functions outside class
+C++ program to add two time by Call by reference
+C++ program to add two time by Call by address
+C++ program to find how many times function called by objects
+C++ program to find square of float and integer using inline function
+C++ program to add two complex number passing objects as arguments
+C++ Program to display entered Date
+C++ program to display Student details using class
+C++ Program to find Largest among 3 numbers using classes
+C++ Program to find Sum of odd numbers between 1 and 100 using class
+C++ program to display Entered Time using class
+C++ program to find Largest among 2 numbers using class
+C++ program to Swap two numbers using class
+C++ program for various Mathematical Operations using Switch case
+C++ Program to Compare Two Strings using overloading
+C++ Program to enter student marks and roll no. using Virtual Class
+C++ Program to Print Numbers From 1 to n using class
+C++ Program to calculate Volume of Cube using constructor and destructor
+C++ Program to Perform Complex Operations using Overloading
+C++ Program to determine the Area of Rectangle using constructors
+C++ Program to show Constructor & Destructor Example
+C++ Program to Show Counter using Constructors
+C++ Program to Display Date using Constructors
+C++ program to Display Student Details using constructor and destructor
+C++ Program to enter student details by Passing parameters to constructors
+C++ Program to Show Overload Constructor Example
+C++ Program to show Example of Default copy constructor
+C++ Program to demonstrate Constructor Overloading
+C++ Program To calculate Volume of Box using Constructor
+C++ Program To Calculate Simple Interest using class
+C++ Program To Calculate Electricity Bill Of Person using Class
+C++ program to multiply every member by 10 using class
+C++ program for Simple Queue using Class
+C++ Program to implement B- Trees using Linked Lists
+
+## C++ Constructor and Destructor Solved Programs ##
+
+C++ Program to calculate Volume of Cube using constructor and destructor
+C++ Program to Perform Complex Operations using Overloading
+C++ Program to determine the Area of Rectangle using constructors
+C++ Program to show Constructor & Destructor Example
+C++ Program to Show Counter using Constructors
+C++ Program to Display Date using Constructors
+C++ program to Display Student Details using constructor and destructor
+C++ Program to enter student details by Passing parameters to constructors
+C++ Program to Show Overload Constructor Example
+C++ Program to show Example of Default copy constructor
+C++ Program to Show an Example of Destructor
+C++ Program to Show an Example demonstrating Order of constructor invocation
+C++ Program to demonstrate Constructor Overloading
+C++ Program To calculate Volume of Box using Constructor
+C++ Program For Constructor with Two Parameters
+C++ Program to illustrates the use of Constructors in single inheritance
+C++ Program to illustrates the use of Constructors in multilevel inheritance
+
+## C++ Inheritance Solved Programs ##
+
+C++ Program to access protected data member using Inheritance
+C++ Program for Inheritance Beyond Single Level
+C++ Program for enter Patient details using Inheritance
+C++ program to demonstrate an example of Single Inheritance
+C++ Program to demonstrate an Example of Multiple Inheritance
+C++ Program to demonstrate an Example of Hybrid Inheritance
+C++ program display student marksheet using multiple inheritance
+C++ Program to find Area of Rectangle using inheritance
+C++ Program to show access to private,public and protected using Inheritance
+C++ Program to Overriding the member functions using Inheritance
+C++ Program to enter Student details of different Stream using Hierarchical Inheritance
+C++ Program to find area and volume using multiple inheritance
+C++ Program to demonstrate an Example of Multilevel Inheritance
+C++ Program to illustrates the use of Constructors in single inheritance
+C++ Program to illustrates the use of Constructors in multilevel inheritance
+C++ Program to illustrates the use of Constructors in multiple inheritance
+C++ Program of templated class derived from non-templated class
+C++ Program of non-templated class derived from templated base class
+C++ Program of templated class derived from another templated class
+
+## C++ Overloading Solved Programs ##
+C++ Program to Compare Two Strings using overloading
+C++ Program to Perform Complex Operations using Overloading
+C++ program to Swap variables using function overloading
+C++ program for show Counter using Overloading unary operator ++
+C++ program to perform operations on complex numbers
+C++ class Program to perform rational number arithmetic
+C++ class Program to perform Complex Arithmetic using operator overloading
+C++ Program to Find the Area of shapes using function overloading
+C++ Program to check Palindrome using function overloading
+C++ program to find area of square,rectangle,circle and triangle
+C++ program to find volume of cube, cylinder, sphere by function overloading
+
+## C++ Polymorphism Solved Programs ##
+
+C++ Program to demonstrate Run time polymorphism
+C++ Program to illustrate the use of pure virtual function in Polymorphism
+C++ Program to define an Abstract Class in Polymorphism
+C++ Program to illustrates the use of Virtual base class
+C++ Program to show an Example of Pointers to base class
+C++ Program to illustrate Abstract Base Class
+C++ Program to illustrate an example of Pure Virtual functions
+C++ Program to maintain employee database using virtual class
+
+## C++ File Handling Solved Programs ##
+
+C++ Program to Maintain Book Record using File Handling
+C++ Program to Maintain House Records using File Handling
+C++ Program for Registration(Signup) process using File Handling
+C++ Program to Read and Write File Operation in File Handling
+C++ Menu Driven Program to perform Add,Modify,Append and Display
+C++ Program to Store or Enter Data to file using File Handling
+C++ Program to Retrieve information from the file using File Handling
+C++ Program to Read and Display file using File Handling
+C++ Program to Merge Two Files to Third File using File Handling
+C++ Program to Encrypt Files using File Handling
+C++ Program to Decrypt Files using File Handling
+C++ program to read and write values through object using File Handling
+C++ Program to Count Digits, Alphabates & Spaces using File Handling
+C++ Program to Count Words, Lines and Total Size using File Handling
+C++ Program to read text file and write in another text file in File Handling
+C++ Program to Count Occurrence of Word using File Handling
+C++ Program to Read Write Student Details using File Handling
+C++ Program of Manipulation of file pointers in File Handling
+
+## C++ Template Solved Programs ##
+C++ Program to find Largest among two numbers using function template
+C++ Program to Swap data using function template
+C++ Program to build Simple calculator using Class template
+C++ Program to demonstrate an Example of Template specialization
+C++ Program to demonstrate an Example of Non-type parameters for templates
+C++ Program to implement Generic methods on Stack using Class Template
+C++ Program to implement push & pop methods from stack using template
+C++ Program to Add two numbers using function template
+C++ program to find Sum of numbers using Overload template function
+C++ Program to Perform Simple Addition Function Using Templates
+C++ Program to find sum of Array using function template
+C++ Program to find Square function of each data-type using single template
+C++ Program of square function using template specialization
+C++ Program to show Example of Static member variable of template class
+C++ Program of templated class derived from non-templated class
+C++ Program of non-templated class derived from templated base class
+C++ Program of templated class derived from another templated class
+C++ Menu Driven Program for Stack using Templates
+C++ program to implement Hash Table using Template Class
