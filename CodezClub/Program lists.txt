@@ -2,12 +2,12 @@ Link:https://www.codezclub.com/cpp-solved-programs-problems-solutions/
 
 ##C++ Basic Solved Programs##
 
-C++ Program to Print Number (Entered by the User)
-C++ Program to Addition of Two Numbers
-C++ Program to Find Quotient and Remainder
-C++ Program to Swap Two Numbers Without Using third variable
-C++ Program to Find Size of int, float, double and char
-C++ Program to Multiply two Numbers
+C++ Program to Print Number (Entered by the User)-ok
+C++ Program to Addition of Two Numbers - ok
+C++ Program to Find Quotient and Remainder -ok
+C++ Program to Swap Two Numbers Without Using third variable -ok
+C++ Program to Find Size of int, float, double and char- ok
+C++ Program to Multiply two Numbers -ok
 C++ Program to Find ASCII Value of a Character
 C++ program to generate random numbers
 C++ Program to calculate sum and average of three numbers

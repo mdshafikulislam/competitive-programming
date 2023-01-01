@@ -27,3 +27,33 @@ int main()
 
     return 0;
 }
+
+/*
+int main()
+    {
+
+    int n;
+    cin>>n;
+    int sum=0;
+    int originaln=n;
+    while(n>0){
+        cout<<"sk"<<endl;
+        int lastdigit=n%10;
+         cout<<"lastdigit : "<<lastdigit<<endl;
+        sum+= pow(lastdigit,3);
+        cout<<sum<<endl;
+        n=n/10;
+        cout<<n<<endl;
+    }
+    if(sum == originaln){
+        cout<<"armostrong Number"<<endl;
+    }else{
+        cout<<"Not armostrong Number"<<endl;
+    }
+
+
+
+
+    return 0;
+}
+*/
