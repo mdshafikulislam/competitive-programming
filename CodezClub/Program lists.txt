@@ -8,7 +8,7 @@ C++ Program to Find Quotient and Remainder -ok
 C++ Program to Swap Two Numbers Without Using third variable -ok
 C++ Program to Find Size of int, float, double and char- ok
 C++ Program to Multiply two Numbers -ok
-C++ Program to Find ASCII Value of a Character
+C++ Program to Find ASCII Value of a Character -ok
 C++ program to generate random numbers
 C++ Program to calculate sum and average of three numbers
 C++ Program to convert inches into yard, feet and inches
