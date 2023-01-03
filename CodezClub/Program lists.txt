@@ -2,28 +2,54 @@ Link:https://www.codezclub.com/cpp-solved-programs-problems-solutions/
 
 ##C++ Basic Solved Programs##
 
-C++ Program to Print Number (Entered by the User)-ok
-C++ Program to Addition of Two Numbers - ok
-C++ Program to Find Quotient and Remainder -ok
-C++ Program to Swap Two Numbers Without Using third variable -ok
-C++ Program to Find Size of int, float, double and char- ok
-C++ Program to Multiply two Numbers -ok
-C++ Program to Find ASCII Value of a Character -ok
-C++ program to generate random numbers
-C++ Program to calculate sum and average of three numbers
-C++ Program to convert inches into yard, feet and inches
-C++ Program to raise any number X to power N
-C++ Program to Add Two Numbers
+1. C++ Program to Print Number (Entered by the User) 
+2. C++ Program to Addition of Two Numbers 
+3. C++ Program to Find Quotient and Remainder 
+4. C++ Program to Swap Two Numbers Without Using third variable 
+5. C++ Program to Find Size of int, float, double and char
+6. C++ Program to Multiply two Numbers 
+7. C++ Program to Find ASCII Value of a Character 
+8. C++ program to generate random numbers 
+9. C++ Program to calculate sum and average of three numbers
+10.C++ Program to raise any number X to power N 
+11. C++ Program to find Square Root of a number
+12. C++ Program to Check Number is Odd or Even
+13. C++ Program to Add Two Numbers
+14. C++ Program to Check given number is Even or Odd
+15.
+16.
+17.
+18.
+19.
+20.
+21.
+22.
+23.
+24.
+25.
+26.
+27.
+28.
+29.
+30.
+31.
+32.
+33.
+34.
+35.
+36.
+37.
+38.
+39.
+
+C++ Program to convert inches into yard, feet and inches 
 C++ Program to Convert Days Into Years, Weeks and Days
-C++ Program to find Square Root of a number
 C++ Program to find Compound Interest
 C++ program to find cube of number using macros
-C++ Program to Check Number is Odd or Even
 C++ Program to Check Character is Uppercase, Lowercase, Digit or Special Character
 C++ Program to Check whether year is Leap year or not
 C++ Program to Find All Roots of a Quadratic Equation
 C++ Program to Check Whether a character is Vowel or Consonant
-C++ Program to Check given number is Even or Odd
 C++ Program to Check given number is Prime number or not
 C++ Program to find Factorial of a Number
 C++ program to Print Table of any Number
@@ -43,12 +69,66 @@ C++ Program to find average of numbers
 C++ Program for Pascal Triangle
 
 ## C++ Number Solved Programs ##
-
-C++ Program to calculate sum and average of three numbers
+1. C++ Program to calculate sum and average of three numbers
+2. C++ Program to Add Two Numbers
+3. C++ Program to Check given number is Even or Odd
+4.
+5.
+6.
+7.
+8.
+9.
+10.
+11.
+12.
+13.
+14.
+15.
+16.
+17.
+18.
+19.
+20.
+21.
+22.
+23.
+24.
+25.
+26.
+27.
+28.
+29.
+30.
+31.
+32.
+33.
+34.
+35.
+36.
+37.
+38.
+21.
+22.
+23.
+24.
+25.
+26.
+27.
+28.
+29.
+30.
+31.
+32.
+33.
+34.
+35.
+36.
+37.
+38.
+39.
 C++ Program to raise any number X to power N
-C++ Program to Add Two Numbers
 C++ Program to find Square Root of a number
-C++ Program to Check given number is Even or Odd
+
 C++ Program to Check given number is Prime number or not
 C++ Program to find Factorial of a Number
 C++ program to Print Table of any Number
@@ -85,8 +165,27 @@ C++ Program to Calculate Arithmetic Mean
 C++ Program to Calculate Average Percentage Marks
 
 ## C++ String Solved Programs ##
+1. C++ Program to Print entered String
+2.
+3.
+4.
+5.
+6.
+7.
+8.
+9.
+10.
+11.
+12.
+13.
+14.
+15.
+16.
+17.
+18.
+19.
+20.
 
-C++ Program to Print entered String
 C++ Program to Find Frequency of Characters in String
 C++ program to Find Length of String
 C++ Program to Compare Two Strings
@@ -112,7 +211,46 @@ C++ Program to check whether String is Palindrome or not
 C++ Program to convert first letter of each word to uppercase and other to lowercase
 
 ## C++ Arrays Solved Programs ##
-
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+8.
+9.
+10.
+11.
+12.
+13.
+14.
+15.
+16.
+17.
+18.
+19.
+20.
+21.
+22.
+23.
+24.
+25.
+26.
+27.
+28.
+29.
+30.
+31.
+32.
+33.
+34.
+35.
+36.
+37.
+38.
+39.
+40.
 C++ Program to Remove Characters in String Except Alphabets
 C++ Program to find Maximum or Largest number in array
 C++ Program to enter 5 numbers & display first and last only
@@ -155,6 +293,26 @@ C++ Menu Driven Program for Stack Operations Using Arrays
 C++ Program to implement Merge Sort using Divide and Conquer Algorithm
 
 ## C++ Functions Solved Programs ##
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+8.
+9.
+10.
+11.
+12.
+13.
+14.
+15.
+16.
+17.
+18.
+19.
+20.
 C++ Program for Linear search using recursion
 C++ Program to Find Factorial of Number Using Recursion
 C++ program to Find Sum of Natural Numbers using Recursion
@@ -195,6 +353,26 @@ C++ Program to Swap two numbers by call by reference
 
 ## C++ Classes and Objects Solved Programs ##
 
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+8.
+9.
+10.
+11.
+12.
+13.
+14.
+15.
+16.
+17.
+18.
+19.
+20.
 C++ program to find factorial by defining functions outside the class
 C++ program to find greatest b/w 3 nos. by defining the functions inside class
 C++ program to find reverse of number by defining functions outside class
@@ -234,6 +412,23 @@ C++ Program to implement B- Trees using Linked Lists
 
 ## C++ Constructor and Destructor Solved Programs ##
 
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+8.
+9.
+10.
+11.
+12.
+13.
+14.
+15.
+16.
+17.
 C++ Program to calculate Volume of Cube using constructor and destructor
 C++ Program to Perform Complex Operations using Overloading
 C++ Program to determine the Area of Rectangle using constructors
@@ -253,7 +448,25 @@ C++ Program to illustrates the use of Constructors in single inheritance
 C++ Program to illustrates the use of Constructors in multilevel inheritance
 
 ## C++ Inheritance Solved Programs ##
-
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+8.
+9.
+10.
+11.
+12.
+13.
+14.
+15.
+16.
+17.
+18.
+19.
 C++ Program to access protected data member using Inheritance
 C++ Program for Inheritance Beyond Single Level
 C++ Program for enter Patient details using Inheritance
@@ -275,6 +488,17 @@ C++ Program of non-templated class derived from templated base class
 C++ Program of templated class derived from another templated class
 
 ## C++ Overloading Solved Programs ##
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+8.
+9.
+10.
+11.
 C++ Program to Compare Two Strings using overloading
 C++ Program to Perform Complex Operations using Overloading
 C++ program to Swap variables using function overloading
@@ -288,7 +512,14 @@ C++ program to find area of square,rectangle,circle and triangle
 C++ program to find volume of cube, cylinder, sphere by function overloading
 
 ## C++ Polymorphism Solved Programs ##
-
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+8.
 C++ Program to demonstrate Run time polymorphism
 C++ Program to illustrate the use of pure virtual function in Polymorphism
 C++ Program to define an Abstract Class in Polymorphism
@@ -299,7 +530,24 @@ C++ Program to illustrate an example of Pure Virtual functions
 C++ Program to maintain employee database using virtual class
 
 ## C++ File Handling Solved Programs ##
-
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+8.
+9.
+10.
+11.
+12.
+13.
+14.
+15.
+16.
+17.
+18.
 C++ Program to Maintain Book Record using File Handling
 C++ Program to Maintain House Records using File Handling
 C++ Program for Registration(Signup) process using File Handling
@@ -320,6 +568,25 @@ C++ Program to Read Write Student Details using File Handling
 C++ Program of Manipulation of file pointers in File Handling
 
 ## C++ Template Solved Programs ##
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+8.
+9.
+10.
+11.
+12.
+13.
+14.
+15.
+16.
+17.
+18.
+19.
 C++ Program to find Largest among two numbers using function template
 C++ Program to Swap data using function template
 C++ Program to build Simple calculator using Class template
