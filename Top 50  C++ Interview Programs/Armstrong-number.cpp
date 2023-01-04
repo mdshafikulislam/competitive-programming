@@ -15,7 +15,6 @@ int main()
         temp = temp / 10;
     }
     cout << sum;
-    // cout << sum;
     if (number == sum)
     {
         cout << "Armstrong";

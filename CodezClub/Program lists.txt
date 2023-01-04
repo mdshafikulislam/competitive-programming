@@ -12,10 +12,10 @@ Link:https://www.codezclub.com/cpp-solved-programs-problems-solutions/
 8. C++ program to generate random numbers 
 9. C++ Program to calculate sum and average of three numbers
 10.C++ Program to raise any number X to power N 
-11. C++ Program to find Square Root of a number
-12. C++ Program to Check Number is Odd or Even
-13. C++ Program to Add Two Numbers
-14. C++ Program to Check given number is Even or Odd
+11.C++ Program to find Square Root of a number
+12.C++ Program to Check Number is Odd or Even
+13.C++ Program to Add Two Numbers
+14.C++ Program to Check given number is Even or Odd
 15.
 16.
 17.
