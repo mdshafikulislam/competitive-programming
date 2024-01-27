@@ -15,6 +15,7 @@ int main()
             cout << "even" << endl;
         else
             cout << "odd" << endl;
+            // cout << "odd" << endl;
     }
 
     return 0;
