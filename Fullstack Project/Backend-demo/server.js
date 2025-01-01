@@ -6,9 +6,19 @@ const app= express();
 
 app.get('/',(req,res)=>{
     res.send('Hello from Express Server');
+});
+
+-
+app.get('/ami', (req, res) => {
+    res.send('Hello from');
+});
+
+app.get('/sk',(req,res)=>{
+    res.send('sk');
 })
 
-app.get('/jokes',(req,res)=>{
+
+app.get('/api/jokes',(req,res)=>{
 const jokes=[
     {
         id:1,
